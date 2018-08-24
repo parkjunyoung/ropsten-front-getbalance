@@ -1,0 +1,22 @@
+{
+  "name": "web3_front",
+  "authors": [
+    "parkjunyoung <pjoon86@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3",
+    "web3": "^0.20.6",
+    "jquery": "^3.3.1"
+  }
+}
